@@ -7,7 +7,7 @@ API for contact forms using Telegram bots made with FastAPI.
 First of all, clone this repo.
 
 ```
-git clone https://github.com/DD21S/social-network.git
+git clone https://github.com/DD21S/contact-backend.git
 ```
 
 Then, in the project directory, you install the requirements.
