@@ -1,6 +1,6 @@
-# Contact backend
+# Contact form Telegram
 
-API for contact forms using Telegram bots made with FastAPI.
+API for contact forms using Telegram bots with FastAPI.
 
 ## Quickstart
 
