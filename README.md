@@ -10,7 +10,7 @@ First of all, clone this repo.
 git clone https://github.com/DD21S/contact-backend.git
 ```
 
-Then, in the project directory, you install the requirements.
+Then, in the project directory, install the requirements.
 
 ```
 pip install -r requirements.txt
@@ -30,6 +30,10 @@ uvicorn main:app
 ```
 
 Ready, now your API is running :&#41;
+
+---
+
+Consult the [documentation](https://fastapi.tiangolo.com/tutorial/cors/) for CORS configuration.
 
 ---
 
